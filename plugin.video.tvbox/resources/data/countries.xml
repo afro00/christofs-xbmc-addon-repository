@@ -4,12 +4,12 @@
     <country
         name="AUSTRIA"
         xml="https://raw.github.com/ChristofTorres/christofs-xbmc-addon-repository/master/plugin.video.tvbox/resources/data/channels_at.xml"
-        timestamp="09/03/2014 02:12:00">
+        timestamp="10/03/2014 00:49:00">
     </country>
     <country
         name="GERMANY"
         xml="https://raw.github.com/ChristofTorres/christofs-xbmc-addon-repository/master/plugin.video.tvbox/resources/data/channels_de.xml"
-        timestamp="09/03/2014 23:46:00">
+        timestamp="10/03/2014 00:49:00">
     </country>
     <country
         name="FRANCE"
@@ -34,7 +34,7 @@
     <country
         name="SWITZERLAND"
         xml="https://raw.github.com/ChristofTorres/christofs-xbmc-addon-repository/master/plugin.video.tvbox/resources/data/channels_ch.xml"
-        timestamp="09/03/2014 02:14:00">
+        timestamp="10/03/2014 00:49:00">
     </country>
     <country
         name="UNITED KINGDOM"
