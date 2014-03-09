@@ -3,47 +3,47 @@
 <channels>
     <channel
         name="DAS ERSTE"
-        url="http://megatv.to/Live-Stream/deutschland/ios-ard.html"
+        url="http://www.live-stream.tv/online/fernsehen/ard.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=1">
     </channel>
     <channel
         name="ZDF"
-        url="http://megatv.to/Live-Stream/deutschland/ios-zdf.html"
+        url="http://www.live-stream.tv/online/fernsehen/zdf.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=2">
     </channel>
     <channel
         name="SAT.1"
-        url="http://megatv.to/Live-Stream/deutschland/ios-sat1.html"
+        url="http://www.live-stream.tv/online/fernsehen/sat1.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=10">
     </channel>
     <channel
         name="RTL"
-        url="http://megatv.to/Live-Stream/deutschland/ios-rtl.html"
+        url="http://www.live-stream.tv/online/fernsehen/rtl.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=8">
     </channel>
     <channel
         name="RTL 2"
-        url="http://megatv.to/Live-Stream/allgemein/ios-rtl2.html"
+        url="http://www.live-stream.tv/online/fernsehen/rtl2.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=23">
     </channel>
     <channel
         name="PRO7"
-        url="http://megatv.to/Live-Stream/deutschland/ios-prosieben.html"
+        url="http://www.live-stream.tv/online/fernsehen/pro7.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=9">
     </channel>
     <channel
         name="KABEL 1"
-        url="http://megatv.to/Live-Stream/deutschland/ios-kabel1.html"
+        url="http://www.live-stream.tv/online/fernsehen/kabel1.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=26">
     </channel>
     <channel
         name="VOX"
-        url="http://megatv.to/Live-Stream/deutschland/ios-vox.html"
+        url="http://www.live-stream.tv/online/fernsehen/vox.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=25">
     </channel>
     <channel
         name="SIXX"
-        url="http://megatv.to/Live-Stream/deutschland/ios-sixx.html"
+        url="http://www.live-stream.tv/online/fernsehen/sixx.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=259">
     </channel>
     <channel
@@ -53,17 +53,17 @@
     </channel>
     <channel
         name="PRO7 MAXX"
-        url="http://megatv.to/Live-Stream/deutschland/ios-pro-sieben-maxx.html"
+        url="http://www.live-stream.tv/online/fernsehen/pro7_maxx.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=317">
     </channel>
     <channel
         name="SUPERRTL"
-        url="http://megatv.to/Live-Stream/deutschland/ios-super-rtl.html"
+        url="http://www.live-stream.tv/online/fernsehen/superrtl.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=294">
     </channel>
     <channel
         name="RTLNITRO"
-        url="http://megatv.to/Live-Stream/deutschland/ios-rtl-nitro.html"
+        url="http://www.live-stream.tv/online/fernsehen/rtlnitro.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=289">
     </channel>
     <channel
@@ -73,37 +73,37 @@
     </channel>
     <channel
         name="3SAT"
-        url="http://megatv.to/Live-Stream/deutschland/ios-3sat.html"
+        url="http://www.live-stream.tv/online/fernsehen/3sat.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=11">
     </channel>
     <channel
         name="EUROSPORT"
-        url="http://megatv.to/Live-Stream/deutschland/ios-eurosport.html"
+        url="http://www.live-stream.tv/online/fernsehen/eurosport.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=35">
     </channel>
     <channel
         name="SPORT1"
-        url="http://megatv.to/Live-Stream/deutschland/ios-sport-1.html"
+        url="http://www.live-stream.tv/online/fernsehen/sport1.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=36">
     </channel>
     <channel
         name="NICKELODEON"
-        url="http://megatv.to/Live-Stream/deutschland/ios-nickeldeon.html"
+        url="http://www.live-stream.tv/online/fernsehen/nickcc.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=141">
     </channel>
     <channel
         name="KIKA"
-        url="http://megatv.to/Live-Stream/deutschland/ios-kika-2.html"
+        url="http://www.live-stream.tv/online/fernsehen/kika.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=43">
     </channel>
     <channel
         name="ARTE"
-        url="http://megatv.to/Live-Stream/deutschland/ios-arte.html"
+        url="http://www.live-stream.tv/online/fernsehen/arte.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=24">
     </channel>
     <channel
         name="VIVA"
-        url="http://megatv.to/Live-Stream/deutschland/ios-viva.html"
+        url="http://www.live-stream.tv/online/fernsehen/viva.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=70">
     </channel>
     <channel
@@ -113,32 +113,32 @@
     </channel>
     <channel
         name="WDR"
-        url="http://megatv.to/Live-Stream/deutschland/ios-ndr.html"
+        url="http://www.live-stream.tv/online/fernsehen/wdr.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=30">
     </channel>
     <channel
         name="MDR"
-        url="http://live-tv.to/television_channels/28"
+        url="http://www.live-stream.tv/online/fernsehen/mdr.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=31">
     </channel>
     <channel
         name="SWR"
-        url="http://megatv.to/Live-Stream/deutschland/ios-swr.html"
+        url="http://www.live-stream.tv/online/fernsehen/swr.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=29">
     </channel>
     <channel
         name="NDR"
-        url="http://live-tv.to/television_channels/7"
+        url="http://www.live-stream.tv/online/fernsehen/ndr.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=28">
     </channel>
     <channel
         name="N24"
-        url="http://megatv.to/Live-Stream/deutschland/n24.html"
+        url="http://www.live-stream.tv/online/fernsehen/n24.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=44">
     </channel>
     <channel
         name="NTV"
-        url="http://megatv.to/Live-Stream/deutschland/ios-n-tv.html"
+        url="http://www.live-stream.tv/online/fernsehen/ntv.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=38">
     </channel>
     <channel
@@ -148,32 +148,32 @@
     </channel>
     <channel
         name="ZDF_NEO"
-        url="http://megatv.to/Live-Stream/deutschland/ios-zdf-neo.html"
+        url="http://www.live-stream.tv/online/fernsehen/zdfneo.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=121">
     </channel>
     <channel
         name="ZDF.KULTUR"
-        url="http://megatv.to/Live-Stream/deutschland/zdf-kultur.html"
+        url="http://www.live-stream.tv/online/fernsehen/zdfkultur.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=280">
     </channel>
     <channel
         name="ZDFINFO"
-        url="http://megatv.to/Live-Stream/deutschland/zdf-info.html"
+        url="http://www.live-stream.tv/online/fernsehen/zdfinfo.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=172">
     </channel>
     <channel
-        name="DAS VIERTE"
-        url="http://megatv.to/Live-Stream/deutschland/ios-das-vierte.html"
+        name="DISNEY CHANNEL"
+        url="http://www.live-stream.tv/online/fernsehen/disney_channel.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=145">
     </channel>
     <channel
         name="PHOENIX"
-        url="http://megatv.to/Live-Stream/deutschland/ios-phoenix.html"
+        url="http://www.live-stream.tv/online/fernsehen/phoenix.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=46">
     </channel>
     <channel
         name="BAYERISCHES FERNSEHEN"
-        url="http://megatv.to/Live-Stream/allgemein/br3.html"
+        url="http://www.live-stream.tv/online/fernsehen/br.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=27">
     </channel>
     <channel
