@@ -3,7 +3,7 @@
 <channels>
     <channel
         name="DAS ERSTE"
-        url="http://www.live-stream.tv/online/fernsehen/ard.html http://server67-yt2.stream-company.org/live/ard/playlist.m3u8?token=57a615e62e6dce992aaed5fe3936da71 http://megatv.to/Live-Stream/deutschland/ios-ard.html"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/ard.html http://www.live-stream.tv/online/fernsehen/ard.html http://megatv.to/Live-Stream/deutschland/ios-ard.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=1">
     </channel>
     <channel
