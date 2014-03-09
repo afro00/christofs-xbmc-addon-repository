@@ -8,92 +8,92 @@
     </channel>
     <channel
         name="ZDF"
-        url="http://www.live-stream.tv/online/fernsehen/zdf.html"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/zdf.html http://www.live-stream.tv/online/fernsehen/zdf.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=2">
     </channel>
     <channel
         name="SAT.1"
-        url="http://www.live-stream.tv/online/fernsehen/sat1.html"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/sat1.html http://www.live-stream.tv/online/fernsehen/sat1.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=10">
     </channel>
     <channel
         name="RTL"
-        url="http://www.live-stream.tv/online/fernsehen/rtl.html"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/rtl.html http://www.live-stream.tv/online/fernsehen/rtl.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=8">
     </channel>
     <channel
         name="RTL 2"
-        url="http://www.live-stream.tv/online/fernsehen/rtl2.html"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/rtl2.html http://www.live-stream.tv/online/fernsehen/rtl2.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=23">
     </channel>
     <channel
         name="PRO7"
-        url="http://www.live-stream.tv/online/fernsehen/pro7.html"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/pro7.html http://www.live-stream.tv/online/fernsehen/pro7.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=9">
     </channel>
     <channel
         name="KABEL 1"
-        url="http://www.live-stream.tv/online/fernsehen/kabel1.html"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/kabel1.html http://www.live-stream.tv/online/fernsehen/kabel1.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=26">
     </channel>
     <channel
         name="VOX"
-        url="http://www.live-stream.tv/online/fernsehen/vox.html"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/vox.html http://www.live-stream.tv/online/fernsehen/vox.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=25">
     </channel>
     <channel
         name="SIXX"
-        url="http://www.live-stream.tv/online/fernsehen/sixx.html"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/sixx.html http://www.live-stream.tv/online/fernsehen/sixx.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=259">
     </channel>
     <channel
         name="DMAX"
-        url="http://www.live-stream.tv/online/fernsehen/dmax.html"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/dmax.html http://www.live-stream.tv/online/fernsehen/dmax.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=154">
     </channel>
     <channel
         name="PRO7 MAXX"
-        url="http://www.live-stream.tv/online/fernsehen/pro7_maxx.html"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/pro7maxx.html http://www.live-stream.tv/online/fernsehen/pro7_maxx.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=317">
     </channel>
     <channel
         name="SUPERRTL"
-        url="http://www.live-stream.tv/online/fernsehen/superrtl.html"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/superrtl.html http://www.live-stream.tv/online/fernsehen/superrtl.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=294">
     </channel>
     <channel
         name="RTLNITRO"
-        url="http://www.live-stream.tv/online/fernsehen/rtlnitro.html"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/rtlnitro.html http://www.live-stream.tv/online/fernsehen/rtlnitro.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=289">
     </channel>
     <channel
-        name="SAT1 GOLD"
-        url="http://www.tv-kino.net/stream/live/de/sat1gold.html"
-        epg="http://i.teleboy.ch/programm/station.php?station_id=301">
+        name="TELE5"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/tele5.html"
+        epg="http://i.teleboy.ch/programm/station.php?station_id=86 http://www.live-stream.tv/online/fernsehen/tele5.html">
     </channel>
     <channel
         name="3SAT"
-        url="http://www.live-stream.tv/online/fernsehen/3sat.html"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/3sat.html http://www.live-stream.tv/online/fernsehen/3sat.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=11">
     </channel>
     <channel
         name="EUROSPORT"
-        url="http://www.live-stream.tv/online/fernsehen/eurosport.html"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/eurosport.html http://www.live-stream.tv/online/fernsehen/eurosport.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=35">
     </channel>
     <channel
         name="SPORT1"
-        url="http://www.live-stream.tv/online/fernsehen/sport1.html"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/sport1.html http://www.live-stream.tv/online/fernsehen/sport1.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=36">
     </channel>
     <channel
         name="NICKELODEON"
-        url="http://www.live-stream.tv/online/fernsehen/nickcc.html"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/nickcc.html http://www.live-stream.tv/online/fernsehen/nickcc.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=141">
     </channel>
     <channel
         name="KIKA"
-        url="http://www.live-stream.tv/online/fernsehen/kika.html"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/kika.html http://www.live-stream.tv/online/fernsehen/kika.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=43">
     </channel>
     <channel
@@ -103,12 +103,12 @@
     </channel>
     <channel
         name="VIVA"
-        url="http://www.live-stream.tv/online/fernsehen/viva.html"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/viva.html http://www.live-stream.tv/online/fernsehen/viva.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=70">
     </channel>
     <channel
         name="DELUXE MUSIC"
-        url="rtmp://push.flash3.ipercast.net:1935/deluxemusic.tv-live/ playpath=web_850.stream swfUrl=http://www.onlinesat-tv.com/channel/flashplayer2.swf pageUrl=http://www.onlinesat-tv.com/online.php?tv=Deluxe_Music&amp;id=752 swfVfy=true live=true"
+        url="http://www.live-stream.tv/online/fernsehen/deluxemusic.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=177">
     </channel>
     <channel
@@ -133,7 +133,7 @@
     </channel>
     <channel
         name="N24"
-        url="http://www.live-stream.tv/online/fernsehen/n24.html"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/n24.html http://www.live-stream.tv/online/fernsehen/n24.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=44">
     </channel>
     <channel
@@ -148,7 +148,7 @@
     </channel>
     <channel
         name="ZDF_NEO"
-        url="http://www.live-stream.tv/online/fernsehen/zdfneo.html"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/zdfneo.html http://www.live-stream.tv/online/fernsehen/zdfneo.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=121">
     </channel>
     <channel
@@ -163,7 +163,7 @@
     </channel>
     <channel
         name="DISNEY CHANNEL"
-        url="http://www.live-stream.tv/online/fernsehen/disney_channel.html"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/disneychannel.html http://www.live-stream.tv/online/fernsehen/disney_channel.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=145">
     </channel>
     <channel
