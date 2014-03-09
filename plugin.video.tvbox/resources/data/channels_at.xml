@@ -3,22 +3,17 @@
 <channels>
     <channel
         name="ORF1"
-        url="http://www.live-stream.tv/online/fernsehen/orf1.html"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/orf1.html http://www.live-stream.tv/online/fernsehen/orf1.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=6">
     </channel>
     <channel
         name="ORF2"
-        url="http://www.live-stream.tv/online/fernsehen/orf2.html"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/orf2.html http://www.live-stream.tv/online/fernsehen/orf2.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=7">
     </channel>
     <channel
-        name="ORFSPORT+"
-        url="http://live-tv.to/television_channels/96"
-        epg="http://i.teleboy.ch/programm/station.php?station_id=168">
-    </channel>
-    <channel
         name="ATV"
-        url="http://www.live-stream.tv/online/fernsehen/atv.html"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/atv.html http://www.live-stream.tv/online/fernsehen/atv.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=146">
     </channel>
     <channel
