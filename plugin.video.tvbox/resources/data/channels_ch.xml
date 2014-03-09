@@ -3,12 +3,12 @@
 <channels>
     <channel
         name="SF1"
-        url="http://www.live-stream.tv/online/fernsehen/sf1.html"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/sf1.html http://www.live-stream.tv/online/fernsehen/sf1.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=3">
     </channel>
     <channel
         name="SF2"
-        url="http://www.live-stream.tv/online/fernsehen/sf2.html"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/sf2.html http://www.live-stream.tv/online/fernsehen/sf2.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=4">
     </channel>
     <channel
@@ -18,23 +18,8 @@
     </channel>
     <channel
         name="3PLUS"
-        url="http://www.live-stream.tv/online/fernsehen/3plus.html"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/3plus.html http://www.live-stream.tv/online/fernsehen/3plus.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=138">
-    </channel>
-    <channel
-        name="RTSUN"
-        url="http://www.tv-kino.net/stream/live/fr/rtsun.html"
-        epg="http://i.teleboy.ch/programm/station.php?station_id=12">
-    </channel>
-    <channel
-        name="RTSDEUX"
-        url="http://www.tv-kino.net/stream/live/fr/rtsdeux.html"
-        epg="http://i.teleboy.ch/programm/station.php?station_id=13">
-    </channel>
-    <channel
-        name="TELEZUERI"
-        url="http://live-tv.to/television_channels/29"
-        epg="http://i.teleboy.ch/programm/station.php?station_id=72">
     </channel>
     <channel
         name="JOIZ"
