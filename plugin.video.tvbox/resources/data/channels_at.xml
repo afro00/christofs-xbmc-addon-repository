@@ -3,12 +3,12 @@
 <channels>
     <channel
         name="ORF1"
-        url="http://www.yourtv.to/online/live/fernsehen/stream/orf1.html http://www.live-stream.tv/online/fernsehen/orf1.html"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/orf1.html http://www.live-stream.tv/online/fernsehen/orf1.html http://megatv.to/Live-Stream/allgemein/orf-1.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=6">
     </channel>
     <channel
         name="ORF2"
-        url="http://www.yourtv.to/online/live/fernsehen/stream/orf2.html http://www.live-stream.tv/online/fernsehen/orf2.html"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/orf2.html http://www.live-stream.tv/online/fernsehen/orf2.html http://megatv.to/Live-Stream/allgemein/orf-2-2.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=7">
     </channel>
     <channel
