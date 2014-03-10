@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<channels>
+    <channel
+        name="ORF1"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/orf1.html http://www.live-stream.tv/online/fernsehen/orf1.html http://megatv.to/Live-Stream/allgemein/orf-1.html"
+        epg="http://i.teleboy.ch/programm/station.php?station_id=6">
+    </channel>
+    <channel
+        name="ORF2"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/orf2.html http://www.live-stream.tv/online/fernsehen/orf2.html http://megatv.to/Live-Stream/allgemein/orf-2-2.html"
+        epg="http://i.teleboy.ch/programm/station.php?station_id=7">
+    </channel>
+    <channel
+        name="ATV"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/atv.html http://www.live-stream.tv/online/fernsehen/atv.html"
+        epg="http://i.teleboy.ch/programm/station.php?station_id=146">
+    </channel>
+    <channel
+        name="SERVUSTV"
+        url="http://www.live-stream.tv/online/fernsehen/servustv.html"
+        epg="http://i.teleboy.ch/programm/station.php?station_id=260">
+    </channel>
+</channels>
+</data>

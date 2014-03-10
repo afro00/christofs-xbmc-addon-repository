@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<channels>
+    <channel
+        name="SF1"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/sf1.html http://www.live-stream.tv/online/fernsehen/sf1.html http://megatv.to/Live-Stream/allgemein/sf1.html"
+        epg="http://i.teleboy.ch/programm/station.php?station_id=3">
+    </channel>
+    <channel
+        name="SF2"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/sf2.html http://www.live-stream.tv/online/fernsehen/sf2.html http://megatv.to/Live-Stream/allgemein/sf2.html"
+        epg="http://i.teleboy.ch/programm/station.php?station_id=4">
+    </channel>
+    <channel
+        name="SFINFO"
+        url="http://megatv.to/Live-Stream/allgemein/sf-info-2.html"
+        epg="http://i.teleboy.ch/programm/station.php?station_id=5">
+    </channel>
+    <channel
+        name="3PLUS"
+        url="http://www.yourtv.to/online/live/fernsehen/stream/3plus.html http://www.live-stream.tv/online/fernsehen/3plus.html http://megatv.to/Live-Stream/allgemein/3-plus.html"
+        epg="http://i.teleboy.ch/programm/station.php?station_id=138">
+    </channel>
+    <channel
+        name="JOIZ"
+        url="http://megatv.to/Live-Stream/allgemein/joiz-2.html"
+        epg="http://i.teleboy.ch/programm/station.php?station_id=279">
+    </channel>
+</channels>
+</data>

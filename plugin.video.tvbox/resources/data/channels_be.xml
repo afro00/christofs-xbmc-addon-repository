@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<channels>
+    <channel
+        name="JIM"
+        url="rtmp://rtmp.jim.stream.vmmacdn.be/vmma-jim-rtmplive-live/jim"
+        epg="">
+    </channel>
+</channels>
+</data>
