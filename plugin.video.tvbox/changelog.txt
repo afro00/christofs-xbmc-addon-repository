@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 [B]v1.0.8[/B] (March 2014) :
   - added multiple streams per TV channel
   - updated the list of TV channels
@@ -8,8 +7,6 @@
 
 =======
 >>>>>>> db351165b4f8560a1d7d2e4c1798c7cdd493e65c
-=======
->>>>>>> FETCH_HEAD
 [B]v1.0.7[/B] (January 2014) :
   - fixed broken channels
   - improved performance when loading the EPG

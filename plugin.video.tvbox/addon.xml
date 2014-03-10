@@ -2,14 +2,10 @@
 <addon id="plugin.video.tvbox"
        name="TV Box"
 <<<<<<< HEAD
-<<<<<<< HEAD
        version="1.0.8"
 =======
        version="1.0.7"
 >>>>>>> db351165b4f8560a1d7d2e4c1798c7cdd493e65c
-=======
-       version="1.0.7"
->>>>>>> FETCH_HEAD
        provider-name="Christof Torres">
     <requires>
         <import addon="xbmc.python" version="1.0"/>
