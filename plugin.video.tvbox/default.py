@@ -64,11 +64,16 @@ def TVCHANNELS(xml):
                 try:
                         if (addon.getSetting("epgsupport") == "true"):
 <<<<<<< HEAD
+<<<<<<< HEAD
                                 epg = get_epg(channel.attributes['epg'].value.encode("utf-8"))
 =======
                                 if (url.find('megatv.to') == -1):
                                        epg = get_epg(channel.attributes['epg'].value.encode("utf-8"))
 >>>>>>> db351165b4f8560a1d7d2e4c1798c7cdd493e65c
+=======
+                                if (url.find('megatv.to') == -1):
+                                       epg = get_epg(channel.attributes['epg'].value.encode("utf-8"))
+>>>>>>> FETCH_HEAD
                         else:
                                 epg = ''
                 except:
@@ -83,6 +88,7 @@ def TVSTREAMS(url,name,epg):
         for url in urls:
                 number += 1
                 try:
+<<<<<<< HEAD
 <<<<<<< HEAD
                         stream = "Stream "+str(number)
                         if (url.find('yourtv.to') != -1):
@@ -102,6 +108,9 @@ def TVSTREAMS(url,name,epg):
 =======
                         if (url.find('www.live-stream.tv') != -1):
 >>>>>>> db351165b4f8560a1d7d2e4c1798c7cdd493e65c
+=======
+                        if (url.find('www.live-stream.tv') != -1):
+>>>>>>> FETCH_HEAD
                                 req = urllib2.Request(url)
                                 req.add_header('User-Agent', user_agent)
                                 response = urllib2.urlopen(req)
@@ -112,9 +121,12 @@ def TVSTREAMS(url,name,epg):
                                         rtmp = rtmp+' swfUrl=http://stream.live-stream.tv/player.swf playpath='+playpath+' pageurl='+url+' live=true swfvfy=true'
                         elif (url.find('megatv.to') != -1):
 <<<<<<< HEAD
+<<<<<<< HEAD
                                 stream += ' [megatv.to]'
 =======
 >>>>>>> db351165b4f8560a1d7d2e4c1798c7cdd493e65c
+=======
+>>>>>>> FETCH_HEAD
                                 req = urllib2.Request(url)
                                 req.add_header('User-Agent', user_agent)
                                 response = urllib2.urlopen(req)
@@ -122,7 +134,10 @@ def TVSTREAMS(url,name,epg):
                                 response.close()
                                 rtmp = re.compile('\'file\': \'(.+?)\'').findall(link)[0]
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> FETCH_HEAD
                                 try:
                                         epg_title = re.compile('<center><font color=\'black\' size=\'4\' face=\'Jockey One\'>(.+?)<br>').findall(link)
                                         epg_time = re.compile('von (.+?) bis (.+?)</font><br>').findall(link)
@@ -132,7 +147,10 @@ def TVSTREAMS(url,name,epg):
                                                 epg = get_epg(channel.attributes['epg'].value.encode("utf-8"))
                                 except:
                                         epg = ''
+<<<<<<< HEAD
 >>>>>>> db351165b4f8560a1d7d2e4c1798c7cdd493e65c
+=======
+>>>>>>> FETCH_HEAD
                         else:
                                 rtmp = url
                         thumbnail = addon.getAddonInfo('path')+'/resources/media/'+name.lower()+'.jpg'
