@@ -6,5 +6,10 @@
         url="http://wowza01.newmedia.lu/channel1/smil:channel1/playlist.m3u8"
         epg="http://tele.rtl.lu/waatleeft/programm/?programm=1">
     </channel>
+    <channel
+        name="AIR"
+        url="http://megatv.to/Live-Stream/allgemein/air.html"
+        epg="">
+    </channel>
 </channels>
 </data>
