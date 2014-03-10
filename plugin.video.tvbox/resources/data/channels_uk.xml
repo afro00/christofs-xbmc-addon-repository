@@ -18,7 +18,7 @@
     </channel>
     <channel
         name="CNN INTERNATIONAL"
-        url="http://megatv.to/Live-Stream/allgemein/cnn.html"
+        url="http://livestation_hls-lh.akamaihd.net/i/cnn_en@105455/master.m3u8 http://megatv.to/Live-Stream/allgemein/cnn.html"
         epg="http://i.teleboy.ch/programm/station.php?station_id=50">
     </channel>
     <channel
@@ -33,28 +33,8 @@
     </channel>
     <channel
         name="FRANCE24 ENGLISH"
-        url="http://media10.lsops.net/live/france24_en.smil/playlist.m3u8"
+        url="http://hd7.lsops.net/live/france24_en_audio/playlist.m3u8"
         epg="http://i.teleboy.ch/programm/station.php?station_id=149">
-    </channel>
-    <channel
-        name="EUROSPORT"
-        url="http://live-tv.to/television_channels/103"
-        epg="http://i.teleboy.ch/programm/station.php?station_id=132">
-    </channel>
-    <channel
-        name="EUROSPORT HD"
-        url="http://live-tv.to/television_channels/106"
-        epg="">
-    </channel>
-    <channel
-        name="EUROSPORT2"
-        url="http://live-tv.to/television_channels/107"
-        epg="http://i.teleboy.ch/programm/station.php?station_id=135">
-    </channel>
-    <channel
-        name="EUROSPORT2 HD"
-        url="http://live-tv.to/television_channels/105"
-        epg="">
     </channel>
 </channels>
 </data>
